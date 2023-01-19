@@ -11,7 +11,7 @@ package waage;
 
 /*
  * Anmerkung:
- * Um den Code möglich kurz zu halten verwende ich hier for-Schleifen mit Label und beaks. 
+ * Um den Code möglichst kurz zu halten verwende ich hier for-Schleifen mit Label und breaks. 
  * Unter normalen Umständen würde ich dies wohl eher mit Hife von while-Schleifen realisieren.
  * Da ich hierfür zusätzliche Abbruch-Variablen deklarieren müsste halte ich meine Vorgehensweise zugunsten der Übersichtlichkeit in diesem Fall für vertretbar.
  */
